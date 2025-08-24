@@ -1,7 +1,7 @@
 package Lec5_Loop;
 import java.util.Scanner;
 import java.util.Random;
-public class Ex6 {
+public class Ex7 {
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
        Random random = new Random();
